@@ -1,6 +1,6 @@
 // TODO: we need to add mising classes!!!
 
-//OK, i will add 'Adder' and s19188 will add 'Subtractor'.
+//OK, i will add 'Adder' and s19188 will add 'Subtractor'
 
 public class Main {
     public static void main(String[] args) {
